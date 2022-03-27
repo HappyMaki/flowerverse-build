@@ -3,11 +3,9 @@
 ## Setup Instructions
 Install git (https://www.atlassian.com/git/tutorials/install-git)
 
-Clone this repository
-```
-git clone 
-cd flowerverse
-```
+Download latest release
+
+Unzip the release file
 
 Install python3 (https://docs.python-guide.org/starting/install3/linux/)
 
